@@ -2,8 +2,6 @@
 MLOps Project using GCP, Kubernetes, Docker, DVC
 
 
-# 🎌 Anime Recommendation System
-
 Scalable, containerized, and production-ready Anime Recommendation System using **content-based**, **collaborative filtering**, and **hybrid** models. Designed to increase retention, engagement, and revenue for anime streaming platforms like **Crunchyroll**.
 
 ---
